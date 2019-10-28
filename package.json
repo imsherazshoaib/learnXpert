@@ -1,0 +1,21 @@
+{
+  "name": "learnxpert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "bootstrap": "^4.3.1",
+    "eslint": "^6.5.1",
+    "jquery": "^3.4.1",
+    "parcel": "^1.12.3",
+    "poper": "^0.1.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
